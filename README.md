@@ -1,4 +1,4 @@
-![logo](https://github.com/amansr18/amansr18/blob/main/1st.gif)
+![logo](https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif)
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
